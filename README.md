@@ -7,6 +7,7 @@ kahoot.js-unpatched is a library to interact with the Kahoot API. kahoot.js-unpa
 ![Dependencies](https://david-dm.org/theusaf/kahoot.js-updated.svg) [![Known Vulnerabilities](https://snyk.io/test/github/theusaf/kahoot.js-updated/badge.svg)](https://snyk.io/test/github/theusaf/kahoot.js-updated) [![HitCount](https://hits.dwyl.com/theusaf/kahoot.js-updated.svg)](https://hits.dwyl.com/theusaf/kahoot.js-updated) ![Builds](https://travis-ci.com/theusaf/kahoot.js-updated.svg?branch=master) ![Docs](https://inch-ci.org/github/theusaf/kahoot.js-updated.svg?branch=master)
 
 **Note: If upgrading from version 1.x.x, read the latest documentation for the new api first.**
+
 **Note 2: Read license before taking this because it is related to theusaf.**
 
 # Basic Example
